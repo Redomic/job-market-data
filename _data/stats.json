@@ -1,0 +1,254 @@
+{
+ "asOf": "2026-11-15",
+ "openJobs": "324,634",
+ "companies": "10,630",
+ "ghost": {
+  "generalApplications": "2,178",
+  "generalApplicationsPct": 0.7,
+  "withPostedDate": "322,349",
+  "medianAgeDays": "65",
+  "over60Pct": 51.7,
+  "over90Pct": 40.9,
+  "over180Pct": 25.8,
+  "over365Pct": 14.0,
+  "over180": "83,039"
+ },
+ "closed": {
+  "jobs": "38,083",
+  "since": "2026-11-08",
+  "medianDaysOpen": "33",
+  "within14Pct": 33.0,
+  "within30Pct": 48.5,
+  "over90Pct": 20.3
+ },
+ "weekdays": {
+  "jobs": "239,310",
+  "shares": [
+   {
+    "day": "Monday",
+    "pct": 16.5
+   },
+   {
+    "day": "Tuesday",
+    "pct": 20.5
+   },
+   {
+    "day": "Wednesday",
+    "pct": 20.9
+   },
+   {
+    "day": "Thursday",
+    "pct": 20.1
+   },
+   {
+    "day": "Friday",
+    "pct": 19.1
+   },
+   {
+    "day": "Saturday",
+    "pct": 1.9
+   },
+   {
+    "day": "Sunday",
+    "pct": 1.0
+   }
+  ],
+  "top": "Wednesday",
+  "topPct": 20.9,
+  "second": "Tuesday",
+  "weekendPct": 2.9
+ },
+ "remote": {
+  "jobs": "62,540",
+  "pct": 19.4,
+  "withUsdSalary": "19,994",
+  "salaryPct": 42.2,
+  "over100kPct": 85.7,
+  "over100k": "17,144",
+  "medianMid": "160,000",
+  "byFamily": [
+   {
+    "family": "Engineering - Management",
+    "jobs": "274",
+    "median": "238,000"
+   },
+   {
+    "family": "Engineering - Security",
+    "jobs": "481",
+    "median": "195,000"
+   },
+   {
+    "family": "Engineering - Infrastructure",
+    "jobs": "472",
+    "median": "188,000"
+   },
+   {
+    "family": "Product Management",
+    "jobs": "639",
+    "median": "186,000"
+   },
+   {
+    "family": "Engineering - Frontend",
+    "jobs": "76",
+    "median": "186,000"
+   },
+   {
+    "family": "Engineering - ML/AI",
+    "jobs": "1,427",
+    "median": "184,000"
+   },
+   {
+    "family": "Engineering - Backend/Fullstack",
+    "jobs": "2,757",
+    "median": "177,000"
+   },
+   {
+    "family": "Engineering - Mobile",
+    "jobs": "304",
+    "median": "170,000"
+   },
+   {
+    "family": "Engineering - Data",
+    "jobs": "198",
+    "median": "165,000"
+   },
+   {
+    "family": "Design",
+    "jobs": "251",
+    "median": "162,000"
+   },
+   {
+    "family": "Finance/Legal",
+    "jobs": "950",
+    "median": "155,000"
+   },
+   {
+    "family": "Sales",
+    "jobs": "2,928",
+    "median": "154,000"
+   },
+   {
+    "family": "Marketing",
+    "jobs": "922",
+    "median": "151,000"
+   },
+   {
+    "family": "People/Recruiting",
+    "jobs": "278",
+    "median": "142,000"
+   },
+   {
+    "family": "Healthcare/Clinical",
+    "jobs": "1,160",
+    "median": "138,000"
+   }
+  ],
+  "top": [
+   {
+    "company": "Anthropic",
+    "title": "Research Engineer, Knowledge Team",
+    "min": "350,000",
+    "max": "850,000",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4017331008"
+   },
+   {
+    "company": "Anthropic",
+    "title": "Research Engineer, Machine Learning (RL Velocity)",
+    "min": "500,000",
+    "max": "850,000",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5198108008"
+   },
+   {
+    "company": "Anthropic",
+    "title": "Research Engineer / Scientist, Pre-training",
+    "min": "500,000",
+    "max": "850,000",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468947008"
+   },
+   {
+    "company": "Veeam Software",
+    "title": "Senior Director, Digital Advertising",
+    "min": "248,733",
+    "max": "712,440",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/5012498101"
+   },
+   {
+    "company": "Quanata",
+    "title": "Vice President, Product [Remote-US]",
+    "min": "550,000",
+    "max": "650,000",
+    "url": "https://job-boards.greenhouse.io/quanata/jobs/6002895004"
+   },
+   {
+    "company": "Anthropic",
+    "title": "Principal Engineer, Privacy",
+    "min": "485,000",
+    "max": "625,000",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477753008"
+   },
+   {
+    "company": "Apex Technology, Inc.",
+    "title": "Business Development Director, International",
+    "min": "175,000",
+    "max": "600,000",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/47bc5077-137c-409a-a651-0044276463c1"
+   },
+   {
+    "company": "Apex Technology, Inc.",
+    "title": "Business Development Director, Commercial Market",
+    "min": "175,000",
+    "max": "600,000",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/7a31bdc1-6f67-4e65-b90d-b3f808e677ea"
+   },
+   {
+    "company": "Blossom Health",
+    "title": "Remote Outpatient Psychiatrist (MD/DO)",
+    "min": "300,000",
+    "max": "600,000",
+    "url": "https://jobs.ashbyhq.com/Blossom-Health/a8faebe3-0de5-4806-ad7e-22bb265efc42"
+   },
+   {
+    "company": "Current",
+    "title": "Senior Wealth Advisor",
+    "min": "150,000",
+    "max": "600,000",
+    "url": "https://jobs.ashbyhq.com/current-advisors/a78db2d7-7859-42e5-ae79-6d7f866d93d5"
+   },
+   {
+    "company": "Veeam Software",
+    "title": "Federal Health (VA, DHA, HHS) Account Executive (Remote: DC/MD/VA)",
+    "min": "227,940",
+    "max": "583,920",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4930614101"
+   },
+   {
+    "company": "Veeam Software",
+    "title": "Sales Specialist - Data & AI Security",
+    "min": "227,940",
+    "max": "583,920",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4961624101"
+   },
+   {
+    "company": "Veeam Software",
+    "title": "Sales Specialist - Data & AI Security - SF Bay",
+    "min": "227,940",
+    "max": "583,920",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4983873101"
+   },
+   {
+    "company": "LaunchDarkly",
+    "title": "VP, Product Management",
+    "min": "424,000",
+    "max": "583,000",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8042026003"
+   },
+   {
+    "company": "Magic",
+    "title": "Member of Technical Staff, Evals",
+    "min": "200,000",
+    "max": "550,000",
+    "url": "https://jobs.ashbyhq.com/magic.dev/49e62c0f-ee70-4c6d-95dc-1ac4132ca5cf"
+   }
+  ]
+ }
+}

@@ -1,0 +1,14 @@
+title: Job Market Data
+description: Original numbers on hiring, pay and job postings, from 10,000+ company career pages checked every day.
+url: https://redomic.github.io
+baseurl: /job-market-data
+permalink: /:title/
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+minima:
+  date_format: "%-d %B %Y"
+header_pages:
+  - about.md
